@@ -1,0 +1,99 @@
+Industrial Manufacturing and Production Internship
+Project : Quality Prediction in a Mining Process
+Prepared by
+[Bandipelli Saicharan]
+
+
+Executive Summary
+This report provides details of the Industrial Manufacturing and Production Internship
+ provided by upskill Campus and The IoT Academy in collaboration with Industrial Partner UniConverge Technologies Pvt Ltd (UCT).
+
+This internship was focused on a project statement provided by UCT. We had to finish the project including the report in 6 weeks’ time.
+
+My project was (Quality Prediction in a Mining Process
+ )
+The "Quality Prediction in a Mining Process" project aims to utilize real industrial data, specifically from a flotation plant, to predict the percentage of impurity, specifically silica, in the ore concentrate. By forecasting silica levels, engineers can proactively take corrective actions to optimize ore quality and reduce environmental impact.
+
+This internship gave me a very good opportunity to get exposure to Industrial problems and design/implement solution for that. It was an overall great experience to have this internship.
+
+
+
+
+
+
+TABLE OF CONTENTS
+1 Preface ..............................................................................................................................................3
+2 Introduction ......................................................................................................................................4
+2.1 About UniConverge Technologies Pvt Ltd......................................................................................4
+2.2 About upskill Campus....................................................................................................................8
+2.3 Objective ....................................................................................................................................10
+2.4 Reference ...................................................................................................................................10
+2.5 Glossary......................................................................................................................................10
+3 Problem Statement..........................................................................................................................11
+4 Existing and Proposed solution ........................................................................................................12
+5 Proposed Design/ Model .................................................................................................................13
+5.1 High Level Diagram (if applicable) ...............................................................................................13
+5.2 Low Level Diagram (if applicable)................................................................................................13
+5.3 Interfaces (if applicable)..............................................................................................................13
+6 Performance Test ............................................................................................................................14
+6.1 Test Plan/ Test Cases ..................................................................................................................14
+6.2 Test Procedure............................................................................................................................14
+6.3 Performance Outcome................................................................................................................14
+7 My learnings....................................................................................................................................15
+8 Future work scope ...........................................................................................................................16
+
+1. Preface
+This section typically provides an introduction to the project, its purpose, and any acknowledgments or thanks.
+2. Introduction
+2.1 About UniConverge Technologies Pvt Ltd
+Introduce UniConverge Technologies Pvt Ltd, providing background information, its role in the project, and any relevant context.
+2.2 About upskill Campus
+Describe upskill Campus, its involvement in the project, and how it contributes to the project's objectives.
+2.3 Objective
+Clearly state the objectives of the project, which in this case, would involve predicting the percentage of impurity (silica) in the ore concentrate to optimize mining processes.
+2.4 Reference
+Mention any references or sources of information used in the project.
+2.5 Glossary
+Include a glossary of terms used in the project to ensure clarity and understanding.
+3. Problem Statement
+Define the problem statement, focusing on the challenges or issues faced in the mining process related to impurity levels in the ore concentrate.
+4. Existing and Proposed Solution
+Discuss the current methods or solutions used in the mining process and propose a new solution involving predictive modeling for impurity prediction.
+
+4.1 Code submission (GitHub.com/B-Saicharan)
+
+4.2 Report submission () 
+5. Proposed Design/Model
+
+5.1 High-Level Diagram (if applicable)
+
+Provide a high-level overview of the proposed design or model, illustrating its components and interactions.
+
+5.2 Low-Level Diagram (if applicable)
+Detail the specific components and processes involved in the proposed design or model.
+
+5.3 Interfaces (if applicable)
+
+Describe any interfaces or interactions between the components of the proposed design or model.
+
+6. Performance Test
+
+6.1 Test Plan/Test Cases
+
+Outline the test plan and specific test cases designed to evaluate the performance of the predictive model.
+
+6.2 Test Procedure
+
+Explain the procedure for conducting performance tests, including data collection, model training, and evaluation.
+
+6.3 Performance Outcome
+
+Present the outcomes of the performance tests, including metrics used to assess the effectiveness of the predictive model.
+
+7. My Learnings
+
+Reflect on the learnings gained from working on the project, including technical skills, problem-solving abilities, and insights into the mining industry.
+
+8. Future Work Scope
+
+Discuss potential future extensions or enhancements to the project, including areas for further research or development.
